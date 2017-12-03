@@ -24,7 +24,7 @@
   // Uses bootswatch themes (http://bootswatch.com/)
   // Valid options:
   //     Cerulean, Cosmo, Cyborg, Darkly, Flatly, Journal, Lumen, Paper,
-  //     Readable, Sandstone, Simplex, Slate, Spacelab, Superhero, United, Yeti
+  //     Readable, Sandstone, Simplex, Slate, Spacelab, Superhero, United, Yeti, normal
   // theme (see /public/themes for available themes)
   "theme": "Cyborg",
 
@@ -87,7 +87,7 @@
   },
 
   // market settings
-  //supported markets: bittrex, poloniex, yobit, empoex, bleutrade, cryptopia, ccex
+  //supported markets: bittrex, poloniex, yobit, empoex, bleutrade, cryptopia, ccex, coinsmarkets, stocksexchange
   //default market is loaded by default and determines last price in header
   "markets": {
     "coin": "JBS",
